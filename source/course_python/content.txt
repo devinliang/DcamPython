@@ -1,0 +1,120 @@
+Python Exercises, Practice, Solution
+https://www.w3resource.com/python-exercises/
+
+
+Python Projects for 2022 – Work on Real-time Projects to Head Start Your Career
+https://data-flair.training/blogs/python-project-ideas/
+
+
+Python Tutorials and Examples
+https://www.askpython.com
+
+
+Python Tutorial: A Free And Complete Beginners Course
+https://python.land/python-tutorial
+
+
+Learn Python Programming
+https://www.programiz.com/python-programming
+Python Examples
+https://www.programiz.com/python-programming/examples
+
+
+
+A Comprehensive Study of the Basic (and many advanced) skills required by any Python developer: Web, Data Analysis
+
+Welcome to the brand new course in Python 3: Beginner to Pro.
+
+What you’ll learn
+
+- Python 3 Language and Applications.
+- Software Programming Skills.
+- Learn the basic concepts of Python.
+- Learn how to write robust and error free code.
+- Establish a strong foundation in Object Oriented Programming.
+- Learn how to write decorators like a Pro.
+- Learn advanced python concepts like inheritance, super and the MRO.
+- Built-in Modules: os, sys, math, random, datetime, logging.
+- Learn how to work with Text, CSV and JSON files.
+- Learn how to write and analyze Regular Expressions (Regex).
+- Setup a Flask web server using HTTP, HTML, SQL, Jinja2, Bootstrap4.
+- Learn about Data Analysis using Python: Numpy, Pandas, Seaborn.
+
+Course Content
+
+- Introduction –> 4 lectures • 13min.
+- Anaconda, Python and Jupyter Notebook –> 3 lectures • 35min.
+- DataTypes: Numbers and Boolean Types –> 7 lectures • 56min.
+- DataTypes: Strings –> 6 lectures • 53min.
+- Assignments – I –> 8 lectures • 10min.
+- DataTypes: Tuples and Lists –> 8 lectures • 1hr 36min.
+- DataTypes: Sets and Dictionaries –> 4 lectures • 39min.
+- Data Types – Summary –> 1 lecture • 1min.
+- Conversions between DataTypes –> 1 lecture • 7min.
+- Operators –> 3 lectures • 36min.
+
+Requirements
+
+- Basic Computer Skills.
+- Basic Logic Skills.
+
+Welcome to the brand new course in Python 3: Beginner to Pro.
+
+When I started creating this course, I had one objective in mind:
+“Teach like I wish I had been taught”.
+
+I remember the questions/doubts/hesitations I had when I was learning Python and I have tried very hard to address them in this course. This is why there are many many quizzes and code assignments/problems to solve in this course. No one learns to swim or ride a bicycle by attending lectures on swimming or biking and so it is with coding. You have to write the code, make mistakes, solve those mistakes and repeat. That is the only way to learn.
+
+A strong foundation is necessary for any new endeavor and if it seems that the course is a bit slow in the beginning, it is a deliberate choice to ensure that students have the requisite knowledge to proceed to the more challenging portions.
+
+Student feedback is a very important to me. It allows me to change portions of the course if necessary. Please don’t hesitate to ask pertinent questions and I will answer them ASAP.
+
+Some of the topics:
+
+- Data types, variables, operators.
+- Conversions between Data types
+- Operators: Arithmetic, Assignment, Comparison
+- Operators: Logical, Identity, Membership, Bitwise
+- for loops, while loops and if-else branching
+
+- Functions: Parameters, arguments, return values
+- Functions: Positional and Keyword Argument
+- Functions: Default Values for parameters
+- Functions: Variable positional and Keyword arguments
+- Functions: Local and Global Scope of variables
+- Functions: Enumerate, Map, Filter, Reduce, Zip, Lambda
+- Functions: Closures and Decorators
+- Functions: List and Dictionary comprehensions
+
+- Modules and Packages
+- Built-in modules: os, sys, random, datetime, logging, math
+
+- try-catch error handling
+- Unit tests
+- File handling: Text, CSV and JSON
+- Regular Expressions (regex)
+
+- Object Oriented Programming: Classes, Instances
+- OOP: Class and Instance attributes, class and instance methods
+- OOP: Instance creation step-by-step and the concept of self
+- OOP: Instance Properties and attribute validation
+- OOP: Class Inheritance and inherited attributes and methods
+- OOP: The concept of super
+- OOP: Method Resolution Order(MRO) for multi-level and multiple inheritance 
+
+- Web: Using simple HTTP methods via the requests module
+- Web: Sending and receiving SMS messages using Twilio
+- Web: Setting up a web server using Flask micro-framework
+- Web: Dynamic HTML websites using Jinja2 templates
+- Web: Connecting to a SQL database
+- Web: Using Bootstrap4 in the website
+- Web: Putting it all together to create a frontend and a backend.
+
+- Data Analysis: Basics and Numpy
+- Data Analysis: Numpy nD arrays and characteristics
+- Data Analysis: Pandas dataframes
+- Data Analysis: Dataframe manipulations, groupby and conditional extraction
+- Data Analysis: Visualization of data using matplotlib and pandas
+- Data Analysis: Visualization of data using Seaborn.
+
+There are ~80 quiz questions and ~35 programming exercises with the solutions in this course.

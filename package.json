@@ -1,0 +1,32 @@
+{
+  "name": "dcampython",
+  "version": "1.0.0",
+  "description": "DCAM Python Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinliang/DcamPython.git"
+  },
+  "keywords": [
+    "python",
+    "dcam"
+  ],
+  "author": "Devin Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinliang/DcamPython/issues"
+  },
+  "homepage": "https://github.com/devinliang/DcamPython#readme",
+  "dependencies": {
+    "@fancyapps/ui": "^4.0.27",
+    "@popperjs/core": "^2.11.5",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.8.2",
+    "enlighterjs": "^3.4.0",
+    "jquery": "^3.6.0"
+  }
+}
